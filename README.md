@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am [wosangxr]https://github.com/wosangxr and I focus on frontend web development and AI-augmented workflows, below is some of my work:
+I am [wosangxr](https://github.com/wosangxr) and I focus on frontend web development and AI-augmented workflows, below is some of my work:
 
 Projects:
 
