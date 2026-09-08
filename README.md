@@ -13,6 +13,5 @@ Built with Node.js/Express, React/Vite, and PostgreSQL.
 
 Tools & Goals:
 
-* cooperative-internship: Actively seeking opportunities in Software Development, Cloud, or IT (Google, SCB, Shopee)! <a href="https://github.com/YourUsername"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="15" alt="GitHub"></a>
-* web-dev-stack: HTML, CSS, and manually refining AI-generated code! <a href="https://github.com/YourUsername"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="15" alt="GitHub"></a>
-* Bonus points: `curl your-portfolio.dev` & `docker run your-image`
+* Actively seeking opportunities in Software Development, Cloud, or AI
+* web-dev-stack: Python, HTML, JavaScript, CSS, C++, SQL and manually refining AI-generated code!!
